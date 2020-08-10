@@ -1,0 +1,7 @@
+{
+  "name": "amazon-efs-utils",
+  "version": "1.26.3",
+  "build": "build-deb.sh",
+  "file": "build/debbuild/amazon-efs-utils-${version}.deb"
+}
+
